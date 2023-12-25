@@ -108,8 +108,8 @@ tree.add(1)
 tree.add(8)
 tree.add(10)
 
-tree.print()
+// tree.print()
 
 tree.roota()
 
-console.log(tree.has())
+// console.log(tree.has())
